@@ -32,11 +32,10 @@ RockTunnel_1F_Text_LucasDefeat::
     .string "Grrrrrrr!$"
 
 RockTunnel_1F_Text_LucasPostBattle::
-    .string "Hint!\n"
-    .string "You can us the VS SEEKER?\l"
-    .string "to battle trainers after\n."
-    .string "you defeated them once!\n."
-    .string "Check out your PC!$"
+    .string "You have a VS seeker!\n"
+    .string "I left it in your PC.\p"
+    .string "Use it to re-battle trainers!\n"
+    .string "Byeeeeeeeee!$"
 
 RockTunnel_1F_Text_AshtonIntro::
     .string "POKéMON fight!\n"
