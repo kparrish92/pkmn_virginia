@@ -1655,16 +1655,19 @@ static const struct TrainerMonNoItemCustomMoves sParty_HikerLucas[] = {
         .iv = 0,
         .lvl = 4,
         .species = SPECIES_BULBASAUR,
+        .moves = {MOVE_TACKLE, MOVE_GROWL, MOVE_NONE, MOVE_NONE},
     },
     {
         .iv = 0,
         .lvl = 4,
         .species = SPECIES_CHARMANDER,
+        .moves = {MOVE_SCRATCH, MOVE_NONE, MOVE_NONE, MOVE_NONE},
     },
     {
         .iv = 0,
         .lvl = 4,
         .species = SPECIES_SQUIRTLE,
+        .moves = {MOVE_BUBBLE, MOVE_TAIL_WAG, MOVE_NONE, MOVE_NONE},
     },
 };
 
