@@ -25,14 +25,18 @@ RockTunnel_1F_Text_OliverPostBattle::
     .string "forced me to take this detour.$"
 
 RockTunnel_1F_Text_LucasIntro::
-    .string "Outsiders like you need to show me\n"
-    .string "some respect!$"
+    .string "Hi! I'm Kevin.\n"
+    .string "Do you have any cookies!?$"
 
 RockTunnel_1F_Text_LucasDefeat::
-    .string "I give!$"
+    .string "Grrrrrrr!$"
 
 RockTunnel_1F_Text_LucasPostBattle::
-    .string "You're talented enough to hike!$"
+    .string "Hint!\n"
+    .string "You can us the VS SEEKER?\l"
+    .string "to battle trainers after\n."
+    .string "you defeated them once!\n."
+    .string "Check out your PC!$"
 
 RockTunnel_1F_Text_AshtonIntro::
     .string "POKéMON fight!\n"
