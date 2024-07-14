@@ -1653,17 +1653,17 @@ static const struct TrainerMonNoItemDefaultMoves sParty_HikerOliver[] = {
 static const struct TrainerMonNoItemCustomMoves sParty_HikerLucas[] = {
     {
         .iv = 0,
-        .lvl = 21,
+        .lvl = 4,
         .species = SPECIES_BULBASAUR,
     },
     {
         .iv = 0,
-        .lvl = 21,
+        .lvl = 4,
         .species = SPECIES_CHARMANDER,
     },
     {
         .iv = 0,
-        .lvl = 21,
+        .lvl = 4,
         .species = SPECIES_SQUIRTLE,
     },
 };
