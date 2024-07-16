@@ -60,16 +60,29 @@ RockTunnel_B1F_Text_AllenPostBattle::
     .string "ROCK-type POKéMON.$"
 
 RockTunnel_B1F_Text_MarthaIntro::
-    .string "I don't often come here, but I will\n"
-    .string "battle you.$"
+    .string "Hey! I want to sleep on the couch\n"
+    .string "How dare you interrupt my rest?!\n"
+    .string "Behold, my team of brown pokemon!\n"
+    .string "Sneeze$"
 
 RockTunnel_B1F_Text_MarthaDefeat::
-    .string "Oh!\n"
-    .string "I lost!$"
+    .string "Oops.\n"
+    .string "I am still sleeping!$"
 
 RockTunnel_B1F_Text_MarthaPostBattle::
-    .string "I like tiny POKéMON.\n"
-    .string "Big ones are too scary!$"
+    .string "Did you know that your Dad made \n"
+    .string "this game? This game is originally \n"
+    .string "based on Pokemon Firered!\n"
+    .string "He placed a lot of special characters\n"
+    .string "in the world for you to find.\n"
+    .string "You know many of them, and some\n"
+    .string "you never got the chance to meet.\n"
+    .string "I, for instance, am based one of your dogs.\n"
+    .string "I loved to sleep on the couch!\n"
+    .string "Kevin and Phyllis outside are also based on\n"
+    .string "your dogs.\n"
+    .string "Cool, right?\n"
+    .string "Sneeze$"
 
 RockTunnel_B1F_Text_EricIntro::
     .string "Hit me with your best shot!$"
