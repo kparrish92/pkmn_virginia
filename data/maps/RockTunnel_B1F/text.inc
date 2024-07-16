@@ -71,17 +71,17 @@ RockTunnel_B1F_Text_MarthaDefeat::
 
 RockTunnel_B1F_Text_MarthaPostBattle::
     .string "Did you know that your Dad made \n"
-    .string "this game? This game is originally \n"
+    .string "this game? This game is originally \p"
     .string "based on Pokemon Firered!\n"
-    .string "He placed a lot of special characters\n"
+    .string "He placed a lot of special characters\p"
     .string "in the world for you to find.\n"
-    .string "You know many of them, and some\n"
+    .string "You know many of them, and some\p"
     .string "you never got the chance to meet.\n"
-    .string "I, for instance, am based one of your dogs.\n"
+    .string "I, for instance, am based one of your dogs.\p"
     .string "I loved to sleep on the couch!\n"
-    .string "Kevin and Phyllis outside are also based on\n"
+    .string "Kevin and Phyllis outside are also based on\p"
     .string "your dogs.\n"
-    .string "Cool, right?\n"
+    .string "Cool, right?\p"
     .string "Sneeze$"
 
 RockTunnel_B1F_Text_EricIntro::
