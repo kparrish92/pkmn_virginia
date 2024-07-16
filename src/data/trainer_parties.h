@@ -1100,13 +1100,33 @@ static const struct TrainerMonNoItemDefaultMoves sParty_PicnickerSofia[] = {
 static const struct TrainerMonNoItemDefaultMoves sParty_PicnickerMartha[] = {
     {
         .iv = 0,
-        .lvl = 22,
-        .species = SPECIES_ODDISH,
+        .lvl = 5,
+        .species = SPECIES_DIGLETT,
     },
     {
         .iv = 0,
-        .lvl = 22,
-        .species = SPECIES_BULBASAUR,
+        .lvl = 3,
+        .species = SPECIES_CUBONE,
+    },
+    {
+        .iv = 0,
+        .lvl = 4,
+        .species = SPECIES_PIDGEY,
+    },
+    {
+        .iv = 0,
+        .lvl = 7,
+        .species = SPECIES_MANKEY,
+    },
+    {
+        .iv = 0,
+        .lvl = 2,
+        .species = SPECIES_DODUO,
+    },
+    {
+        .iv = 0,
+        .lvl = 4,
+        .species = SPECIES_GROWLITHE,
     },
 };
 
