@@ -563,7 +563,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_LassMiriam[] = {
     {
         .iv = 0,
         .lvl = 5,
-        .species = SPECIES_ODDISH,
+        .species = SPECIES_TOTODILE,
     },
     {
         .iv = 0,
@@ -573,10 +573,6 @@ static const struct TrainerMonNoItemDefaultMoves sParty_LassMiriam[] = {
         .iv = 0,
         .lvl = 4,
         .species = SPECIES_CYNDAQUIL,
-    },
-        .iv = 0,
-        .lvl = 4,
-        .species = SPECIES_TOTODILE,
     },
 };
 
