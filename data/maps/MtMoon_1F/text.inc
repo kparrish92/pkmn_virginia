@@ -32,8 +32,9 @@ MtMoon_1F_Text_MiriamDefeat::
     .string "I lost!$"
 
 MtMoon_1F_Text_MiriamPostBattle::
-    .string "Just before the first gym, you'll find a familiar face...\n"
-    .string "he will battle you to help your Pokemon get stronger for Brock!$"
+    .string "Just before the first gym, you'll find\n"
+    .string "a familiar face! he will battle you\n"
+    .string "to help your Pokemon get stronger for Brock!$"
 
 MtMoon_1F_Text_JovanIntro::
     .string "What!\n"
