@@ -24,16 +24,16 @@ MtMoon_1F_Text_JoshPostBattle::
     .string "show off to girls.$"
 
 MtMoon_1F_Text_MiriamIntro::
-    .string "Wow! It's way bigger in here than\n"
-    .string "I thought!$"
+    .string "Hi! I'm Phyllis.\n"
+    .string "I can sing really loud!$"
 
 MtMoon_1F_Text_MiriamDefeat::
-    .string "Oh!\n"
-    .string "I lost it!$"
+    .string "Ruff.\n"
+    .string "I lost!$"
 
 MtMoon_1F_Text_MiriamPostBattle::
-    .string "How do you get out of here?\n"
-    .string "It's so big, I may get lost.$"
+    .string "Just before the first gym, you'll find a familiar face...\n"
+    .string "he will battle you to help your Pokemon get stronger for Brock!$"
 
 MtMoon_1F_Text_JovanIntro::
     .string "What!\n"
