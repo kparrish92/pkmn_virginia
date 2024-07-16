@@ -568,12 +568,12 @@ static const struct TrainerMonNoItemDefaultMoves sParty_LassMiriam[] = {
     {
         .iv = 0,
         .lvl = 5,
-        .species = SPECIES_ODDISH,
+        .species = SPECIES_GROWLITHE,
     },
     {
         .iv = 0,
         .lvl = 5,
-        .species = SPECIES_PIDGEY,
+        .species = SPECIES_EEVEE,
     },
 };
 
