@@ -3573,7 +3573,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_PINK,
         .noFlip = FALSE,
     },
-    [SPECIES_SCYTHER] =
+    [SPECIES_VIRGINIA] =
     {
         .baseHP = 100,
         .baseAttack = 150,
