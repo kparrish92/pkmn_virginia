@@ -860,9 +860,9 @@ const u8 gMrmimePokedexText[] = _(
 const u8 gMrmimePokedexTextUnused[] = _("");
 
 const u8 gScytherPokedexText[] = _(
-    "It tears and shreds prey with its wickedly\n"
-    "sharp scythes. It very rarely spreads its\n"
-    "wings to fly.");
+    "It's a singing and wonderful baby! \n"
+    "She's cute, but also fierce, so...\n"
+    "be careful!!);
 
 const u8 gScytherPokedexTextUnused[] = _("");
 
